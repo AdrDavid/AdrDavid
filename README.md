@@ -1,9 +1,12 @@
 ### Olá Eu sou o David Adriano👋
 
 - Sou estudante de ADS
-- Pronouns: Ele /Dele
-<!--
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrDavid)](https://github.com/anuraghazra/github-readme-stats)
--->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrDavid&hide=contribs,prs&show_icons=true&theme=transparent)
 
+<div>
+  <img height="180px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  
+</div>
+<div>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=AdrDavid&show_icons=true&bg_color=00000000"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrDavid&langs_count=8&bg_color=00000000"/>
+</div>
