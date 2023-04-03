@@ -5,7 +5,7 @@
 
 
 <div>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=AdrDavid&show_icons=true&bg_color=00000000"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=AdrDavid&hide=contribs,prs&show_icons=true&bg_color=00000000"/>
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrDavid&langs_count=8&bg_color=00000000"/>
 </div>
 <a href="mailto:adrianobatistad@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
