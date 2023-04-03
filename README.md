@@ -1,5 +1,5 @@
-### Olá Eu sou o David Adriano👋   / 
-#### Cursando ADS...
+### Olá Eu sou o David Adriano👋
+### Cursando ADS...
 
 <!--
 algolia
