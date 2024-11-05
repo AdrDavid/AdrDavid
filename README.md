@@ -5,7 +5,7 @@
 algolia
 -->
 <div style="display: flex">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=AdrDavid&hide=contribs,prs&show_icons=true&&theme=github_dark"/>
+ <!-- <img height="180px" src="https://github-readme-stats.vercel.app/api?username=AdrDavid&hide=contribs,prs&show_icons=true&&theme=github_dark"/>-->
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent"/>
  <!-- <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrDavid&langs_count=8&theme=github_dark"/>-->
 
